@@ -1,0 +1,35 @@
+---
+layout: default
+---
+<head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="{{ site.baseurl }}/styles.css"> 
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <title>{{ page.name }}</title>
+  </head>
+  
+  <body>
+      <br>
+      <br>
+      <div class="pic-and-name">
+          <div class="main-pic">
+              <img src="{{ page.image-url }}">
+          </div>
+          <h1>{{ page.name }}</h1>
+          <h3>{{ page.record }}</h3>
+      </div>
+
+      <div class="info">
+          <ul>
+            Time in space: {{ page.time-in-space }} <br>
+            Year of record: {{ page.year }} <br>
+            Nationality: {{ page.nationality }} <br>
+            Date of birth: {{ page.birth }} <br>
+          </ul>
+      </div>
+
+      <div class="content">
+          {{ content }}
+      </div>
+  </body>
+
