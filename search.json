@@ -1,0 +1,13 @@
+---
+---
+[
+    {% for astronaut in site.astronauts %}
+       {
+
+        "name"         : "{{ astronaut.name }}",
+        "nationality"  : "{{ astronaut.nationality }}",
+        "year"         : "{{ astronaut.year }}"
+        
+       } {% unless forloop.last %},{% endunless %}
+    {% endfor %}
+]

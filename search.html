@@ -1,0 +1,25 @@
+---
+title: Search the Website
+layout: index_layout
+---
+
+<!-- Html Elements for Search -->
+<br>
+<p>Search astronaut name, nationality, year of record</p>
+<div class="search-container">
+        <input type="text" id="search-input" placeholder="Search...">
+        <button type="submit"><i class="fa fa-search"></i></button> 
+        <ul id="results-container"></ul>
+</div>
+    
+<!-- Script pointing to search-script.js -->
+<script src="{{ site.baseurl }}/js/search-script.js" type="text/javascript"></script>
+    
+<!-- Configuration -->
+<script>
+    SimpleJekyllSearch({
+      searchInput: document.getElementById('search-input'),
+      resultsContainer: document.getElementById('results-container'),
+      json: '/search.json'
+    })
+</script>
