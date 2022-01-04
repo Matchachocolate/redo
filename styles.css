@@ -70,126 +70,74 @@
 
 
 /* timeline */
-* {
-  box-sizing: border-box;
+.main-container{
+    position: relative;
+    max-width: 1200px;
 }
 
+.main-container::after{
+    content: '';
+    position: absolute;
+    width: 10px;
+    background-color: #c9ada7;
+    top: 0;
+    bottom: 0;
+    left: 10%;
+    margin-left: -3px;
+}
+
+.text-wrapper{
+    padding: 10px 40px;
+    position: relative;
+    width: 50%;
+    box-sizing: border-box;
+    margin: 50px 0;
+    left: 15%;
+}
+
+.text-wrapper::after{
+    content: '';
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    right: -10px;
+    background-color: #c9ada7;
+    top: 15px;
+    border-radius: 50%;
+    z-index: 1;
+    left: -10px;
+}
+
+.ait{
+    padding: 20px 30px;
+    background-color: #c9ada7;
+    position: relative;
+    border-radius: 4px;
+}
+
+.ait h2{
+    font-size: 24px;
+    color: #22223b;
+    letter-spacing: 1px;
+}
+
+.ait h3{
+    font-size: 22px;
+    color: #22223b;
+    letter-spacing: 1px;
+}
+
+.ait p{
+    color: #22223b;
+    font-size: 18px;
+    margin-top: 2px;
+}
 
 body {
     background-color:#22223b;
     font-family: Helvetica, sans-serif;
 }
 
-.timeline {
-  position: relative;
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
-.timeline::after {
-  content:'';
-  position:absolute;
-  width:6px;
-  background-color:white;
-  top:0;
-  bottom:0;
-  left:50%;
-  margin-left: -3px;
-}
-
-.container {
-    padding: 20px 80px;
-    position: relative;
-    background-color: inherit;
-    width: 50%;
-}
-
-.container::after {
-    content:'';
-    position: absolute;
-    width: 25px;
-    height: 25px;
-    right: -17px;
-    background-color: white;
-    border: 4px solid #FF9F55;
-    top: 15px;
-    border-radius: 50%;
-    z-index: 1;
-}
-
-.left {
-    left: 0;
-}
-
-.right {
-    left: 50%;
-}
-
-.left::before {
-    content:"";
-    height: 0;
-    position: absolute;
-    top: 22px;
-    width: 0;
-    z-index: 1;
-    right: 30px;
-    border: medium solid white;
-    border-width: 10px 0 10px 10px;
-    border-color: transparent transparent transparent white;
-}
-
-.right::before {
-    content: "";
-    height: 0;
-    position: absolute;
-    top: 22px;
-    width: 0;
-    z-index: 1;
-    left: 30px;
-    border: medium solid white;
-    border-width: 10px 10px 10px 0;
-    border-color: transparent white transparent transparent;
-}
-
-.right::after {
-    left: -16px;
-}
-
-.content {
-    padding: 40px 60px;
-    background-color: rgb(255, 0, 0);
-    position: relative;
-    border-radius: 20px;
-}
-
-@media screen and (max-width: 600px) {
-
-    .timeline::after {
-        left: 31px;
-    }
-    
-    .container {
-        width: 100%;
-        padding-left: 70px;
-        padding-right: 25px;
-    }
-    
-    .container::before {
-        left: 60px;
-        border: medium solid white;
-        border-width: 10px 10px 10px 0;
-        border-color: transparent white transparent transparent;
-    }
-    
-    .left::after, .right::after {
-        left: 15px;
-    }
-    
-    .right {
-        left: 0%;
-    }
-    
-}
 
 /*astronaut page*/
 .pic-and-name {
