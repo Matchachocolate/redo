@@ -6,7 +6,8 @@
 
         "name"         : "{{ astronaut.name }}",
         "nationality"  : "{{ astronaut.nationality }}",
-        "year"         : "{{ astronaut.year }}"
+        "year"         : "{{ astronaut.year }}",
+        "url"          : "{{ astronaut.url }}"
         
        } {% unless forloop.last %},{% endunless %}
     {% endfor %}
