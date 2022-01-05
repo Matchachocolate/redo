@@ -12,22 +12,19 @@ layout: default
       <br>
       <br>
       <div class="pic-and-name">
-          <div class="main-pic">
               <img src="{{ page.image-url }}">
-          </div>
           <h1>{{ page.name }}</h1>
           <h3>{{ page.record }}</h3>
       </div>
 
       <div class="info">
-          <ul>
-            Time in space: {{ page.time-in-space }} <br>
-            Year of record: {{ page.year }} <br>
-            Nationality: {{ page.nationality }} <br>
-            Date of birth: {{ page.birth }} <br>
-          </ul>
+        <p>Time in space: {{ page.time-in-space }}</p>
+        <p>Year of record: {{ page.year }} </p>
+        <p>Nationality: {{ page.nationality }} </p>
+        <p>Date of birth: {{ page.birth }} </p>
       </div>
-
+      <br>
+      <br>
       <div class="content">
           {{ content }}
       </div>
