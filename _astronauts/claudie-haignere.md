@@ -1,6 +1,6 @@
 ---
 layout: astronaut
-name: Claudie Haigneré
+name: Claudie Haignere
 image-url: https://cdn.britannica.com/96/177496-050-481E5616/Valentina-Tereshkova.jpg
 nationality: France
 year: 2001
