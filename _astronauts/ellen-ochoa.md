@@ -1,13 +1,10 @@
 ---
 layout: astronaut
 name: Ellen Ochoa 
-image-url:  https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ellen_Ochoa.jpg/440px-Ellen_Ochoa.jpg
-nationality:  USA
-record: First Hispanic woman in space
-year: 1993
-time-in-space: 41 days, 19 hours, and 35  minutes
-birth: 10.05.1958
+image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ellen_Ochoa.jpg/440px-Ellen_Ochoa.jpg
 video: https://www.youtube.com/embed/ZnMYy_wHk1s
+nationality: the United States of America
+year: 1993
 ---
 
 Ellen Lauri Ochoa was born on May 10, 1958 in Los Angeles, California to Joseph and Rosanne (née Deardorff) Ochoa. Her paternal grandparents immigrated from Sonora, Mexico to Arizona and later to California where her father was born. She grew up in La Mesa, California. Ochoa was the middle child of five and neither parent had college degrees.Ochoa received a bachelor of science degree in physics from San Diego State University and graduated Phi Beta Kappa in 1980, before earning a master of science degree and a doctorate from Stanford Department of Electrical Engineering in 1981 and 1985, respectively. During her time at San Diego State University she found that she loved physics, math, and engineering; ultimately, deciding to major in physics.

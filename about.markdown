@@ -28,14 +28,12 @@ permalink: /about/
     <br>
     <br>
     <br>
-    <p>References:</p>
-    <a href="https://www.space.com/16143-women-space-firsts-gallery.html"> https://www.space.com/16143-women-space-firsts-gallery.html</a>
+</div>
 
-    <a href="https://www.itu.int/hub/2021/04/meet-the-women-who-made-history-in-space/">https://www.itu.int/hub/2021/04/meet-the-women-who-made-history-in-space/</a>
-
-    <a href="https://www.space.com/37110-becoming-a-nasa-astronaut-surprising-facts.html">https://www.space.com/37110-becoming-a-nasa-astronaut-surprising-facts.html</a>
-
-    <a href="https://www.itu.int/hub/2021/04/meet-the-women-who-made-history-in-space/">https://www.itu.int/hub/2021/04/meet-the-women-who-made-history-in-space/</a>
-
-
+<div class="references">
+    <h3>References:</h3>
+    <p><a href="https://www.space.com/16143-women-space-firsts-gallery.html"> https://www.space.com/16143-women-space-firsts-gallery.html</a></p>
+    <p><a href="https://www.itu.int/hub/2021/04/meet-the-women-who-made-history-in-space/">https://www.itu.int/hub/2021/04/meet-the-women-who-made-history-in-space/</a></p>
+    <p><a href="https://www.space.com/37110-becoming-a-nasa-astronaut-surprising-facts.html">https://www.space.com/37110-becoming-a-nasa-astronaut-surprising-facts.html</a></p>
+    <p><a href="https://www.itu.int/hub/2021/04/meet-the-women-who-made-history-in-space/">https://www.itu.int/hub/2021/04/meet-the-women-who-made-history-in-space/</a></p>
 </div>

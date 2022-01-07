@@ -30,6 +30,10 @@
     color: #ffc300;
 }
 
+.topnav a:link {
+    color: #003566
+}
+
 
 
 @media screen and (max-width: 600px) {
@@ -159,13 +163,21 @@ img.as {
 .content {
     text-align: left;
     font-size: 18px;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Courier New', Courier, monospace;
     background-color: #001d3d;
     color: #F2E9E4;
     margin-left: 30px;
     margin-right: 30px;
+    line-height: 1.5;
 }
 
+.content h1, h2 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffc300;
+    margin-right: auto;
+    margin-right: auto;
+}
 .quotes {
     margin-left: 10%;
     margin-right: 10%;
@@ -179,11 +191,18 @@ img.ht {
     width: 75%;
 }
 
-.content h1, h2 {
-    text-align: center;
+.references {
+    text-align: left;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #001d3d;
+    color: #F2E9E4;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.references h3 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: #ffc300;
-    margin-right: auto;
-    margin-right: auto;
 }
 

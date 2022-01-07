@@ -11,17 +11,19 @@ layout: default
   <body>
       <br>
       <br>
+      {% assign astronaut_sorted = site.data.info | find:"name", page.name %}
       <div class="pic-and-name">
              <a href="{{ page.image-url }}"><img class="as" src="{{ page.image-url }}"></a> 
           <h1>{{ page.name }}</h1>
-          <h3>{{ page.record }}</h3>
+          <h3>{{ astronaut_sorted.record }}</h3>
       </div>
 
       <div class="info">
-        <p>Time in space: {{ page.time-in-space }}</p>
-        <p>Year of record: {{ page.year }} </p>
-        <p>Nationality: {{ page.nationality }} </p>
-        <p>Date of birth: {{ page.birth }} </p>
+        <p>Time in space: {{ astronaut_sorted.time-in-space }}</p>
+        <p>Year of record: {{ astronaut_sorted.year }} </p>
+        <p>Nationality: {{ astronaut_sorted.nationality }} </p>
+        <p>Date of birth: {{ astronaut_sorted.birth }} </p>
+        <p>Hobbies: {{ astronaut_sorted.hobbies }}</p>
       </div>
       <br>
       <br>
@@ -37,6 +39,15 @@ layout: default
       </div>
       <br>
       <br>
+      <br>
+      <br>      
+      <div class="references">
+        <h3>References:</h3>
+        <p><a href="{{ astronaut_sorted.biography-src-1 }}">{{ astronaut_sorted.biography-src-1 }}</a></p>
+        {% if astronaut_sorted.biography-src-2 %}
+        <p><a href="{{ astronaut_sorted.biography-src-2 }}">{{ astronaut_sorted.biography-src-2 }}</a></p>
+        {% endif %}       
+      </div>
 
   </body>
 
