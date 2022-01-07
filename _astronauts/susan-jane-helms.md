@@ -2,11 +2,8 @@
 layout: astronaut
 name: Susan Jane Helms
 image-url: https://media.defense.gov/2011/Jan/31/2000289411/-1/-1/0/110131-F-JZ022-861.JPG
-nationality: the United States of America
-record: Longest female spacewalk
+nationality: USA
 year: 2001
-time-in-space: 210 days, 23 hours, and 06 minutes
-birth: 26.02.1958
 video: https://www.youtube.com/embed/brAjjXadhNc
 ---
 

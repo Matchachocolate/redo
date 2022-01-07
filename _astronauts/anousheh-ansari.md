@@ -3,10 +3,7 @@ layout: astronaut
 name: Anousheh Ansari
 image-url: https://images-assets.nasa.gov/image/jsc2006e38876/jsc2006e38876~medium.jpg
 nationality: USA / Iranian
-record: First female space tourist
 year: 2020
-time-in-space: 10 days 21 hours and 5 minutes
-birth: 12.09.1966
 video: https://www.youtube.com/embed/rSQlIrVzcRE
 ---
 

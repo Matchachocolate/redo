@@ -3,10 +3,7 @@ layout: astronaut
 name: Eileen Marie Collins
 image-url: https://images-assets.nasa.gov/image/S99-00858/S99-00858~medium.jpg
 nationality: USA
-record: First woman to fly the space shuttle
 year: 1995
-time-in-space: 38 days 08 hours 20 minutes
-birth: 19.11.1956
 video: https://www.youtube.com/embed/BHNRPkR0LHk
 ---
 

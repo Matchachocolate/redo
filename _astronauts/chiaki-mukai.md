@@ -3,10 +3,7 @@ layout: astronaut
 name: Chiaki Mukai
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Chiaki_Mukai.jpg/800px-Chiaki_Mukai.jpg
 nationality: Japan
-record: First Japanese woman in space
 year: 1994
-time-in-space: 23 days, 15 hours, and 39 minutes
-birth: 06.05.1952
 video: https://www.youtube.com/embed/FBdN8MnL0-U
 ---
 

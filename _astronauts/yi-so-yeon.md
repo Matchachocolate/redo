@@ -3,10 +3,7 @@ layout: astronaut
 name: Yi So-yeon
 image-url:  https://cdn.britannica.com/03/136003-050-71F49CDC/Yi-Soyeon-2008.jpg
 nationality:  South Korea
-record: First Korean woman in space
 year: 2008
-time-in-space: 10 days, 21 hours
-birth: 2.07.1978
 video: https://www.youtube.com/embed/mc5GT9lmbz4
 ---
 

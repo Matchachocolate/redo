@@ -2,11 +2,8 @@
 layout: astronaut
 name: Valentina Tereshkova
 image-url: https://cdn.britannica.com/96/177496-050-481E5616/Valentina-Tereshkova.jpg
-nationality:  Russia, Soviet
-record: First and youngest woman ever and first Soviet woman in space
+nationality:  Russia/Soviet
 year: 1963
-time-in-space: 2 days, 22 hours, and 50 minutes
-birth: 6.03.1937
 video: https://www.youtube.com/embed/T2NOXOhghSc
 ---
 (The image is licensed under the <a href="https://creativecommons.org/licenses/by/3.0/deed.en">Creative Commons Attribution 3.0 Unported license</a>)

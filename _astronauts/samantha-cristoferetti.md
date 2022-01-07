@@ -3,10 +3,7 @@ layout: astronaut
 name: Samantha Cristoforetti
 image-url: https://api.time.com/wp-content/uploads/2021/08/Samantha-Cristoforetti.jpg?w=1600&quality=70
 nationality: Italy
-record: First Italian woman in space; the European with the longest continuous time in space
 year: 2014
-time-in-space: 199 days, 16 hours, and 42 minutes
-birth: 26.04.1977
 video: https://www.youtube.com/embed/99i3T1Cw8z8
 ---
 

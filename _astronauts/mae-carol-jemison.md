@@ -2,11 +2,8 @@
 layout: astronaut
 name: Mae Carol Jemison
 image-url: https://images-assets.nasa.gov/image/S92-40463/S92-40463~medium.jpg
-nationality: the United States of America
-record: First African-American woman in space
+nationality: USA
 year: 1992
-time-in-space: 7 days, 22 hours, and 30 minutes
-birth: 17.10.1956
 video: https://www.youtube.com/embed/tCMJW-auEhE
 ---
 

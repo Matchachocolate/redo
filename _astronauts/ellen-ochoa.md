@@ -3,7 +3,7 @@ layout: astronaut
 name: Ellen Ochoa 
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Ellen_Ochoa.jpg/440px-Ellen_Ochoa.jpg
 video: https://www.youtube.com/embed/ZnMYy_wHk1s
-nationality: the United States of America
+nationality: USA
 year: 1993
 ---
 

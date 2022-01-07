@@ -3,10 +3,7 @@ layout: astronaut
 name: Sally Ride
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Sally_Ride_%281984%29.jpg/720px-Sally_Ride_%281984%29.jpg
 nationality: USA
-record: First American woman in space
 year: 1983
-time-in-space:  14 days, 7 hours, and 46 minutes
-birth: 26.05.1951
 video: https://www.youtube.com/embed/Dsgz-b-Tebo
 ---
 

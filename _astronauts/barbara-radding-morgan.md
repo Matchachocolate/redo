@@ -3,10 +3,7 @@ layout: astronaut
 name: Barbara Radding Morgan
 image-url: https://images-assets.nasa.gov/image/KSC-07pd0681/KSC-07pd0681~medium.jpg
 nationality: USA
-record: First teacher in space
 year: 1992
-time-in-space: 12 days 17 hours 53 minutes
-birth: 28.11.1951
 video: https://www.youtube.com/embed/-Fi1UNsr1ek
 ---
 

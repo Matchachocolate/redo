@@ -3,10 +3,7 @@ layout: astronaut
 name: Roberta Bondar
 image-url: https://upload.wikimedia.org/wikipedia/commons/0/02/Roberta_Bondar2.jpg
 nationality: Canada
-record: First Canadian woman in space; First neurologist in space
 year: 1992
-time-in-space: 41 days, 19 hours, and 35 minutes
-birth: 11.04.1945
 video: https://www.youtube.com/embed/1GFmUrrQ9mk
 ---
 

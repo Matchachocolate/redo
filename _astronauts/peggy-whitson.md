@@ -2,11 +2,8 @@
 layout: astronaut
 name: Peggy Whitson
 image-url: https://images-assets.nasa.gov/image/NHQ201803020004/NHQ201803020004~medium.jpg
-nationality: the United States of America
-record: Longest total time in space
+nationality: USA
 year: 2017
-time-in-space: 665 days, 22 hours, and 22 minutes
-birth: 09.02.1960
 video: https://www.youtube.com/embed/jtLX6lcSvuw
 ---
 

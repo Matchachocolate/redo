@@ -2,11 +2,8 @@
 layout: astronaut
 name: Wally Funk
 image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Wally_Funk_2012.jpg/640px-Wally_Funk_2012.jpg
-nationality: the United States of America
-record: Oldest woman in space
+nationality: USA
 year: 2021
-time-in-space: 10 minutes and 18 seconds
-birth: 01.02.1939
 video: https://www.youtube.com/embed/lDyakSKpBmU
 ---
 

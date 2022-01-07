@@ -3,10 +3,7 @@ layout: astronaut
 name: Liu Yang
 image-url:  https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/LIU_Yang_CUHK_2012.JPG/675px-LIU_Yang_CUHK_2012.JPG
 nationality: China
-record: First Chinese woman in space
 year: 2012
-time-in-space: 13 days
-birth: 6.10.1978
 video: https://www.youtube.com/embed/ed0Ichzuw_s
 ---
 

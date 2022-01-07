@@ -2,11 +2,8 @@
 layout: astronaut
 name: Svetlana Savitskaya
 image-url: http://www.spacefacts.de/bios/portraits_hi/cosmonauts/savitskaya_svetlana.jpg
-nationality: the Soviet Union
-record: First woman to spacewalk
+nationality: Soviet
 year: 1982
-time-in-space: 19 days, 17 hours, and 06 minutes
-birth: 08.08.1948
 video: https://www.youtube.com/embed/EldwN3da1cA
 ---
 

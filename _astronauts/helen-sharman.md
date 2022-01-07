@@ -2,11 +2,8 @@
 layout: astronaut
 name: Helen Sharman
 image-url: https://www.heritagefund.org.uk/sites/default/files/inline-images/Sharman_Helen_1991.jpg
-nationality: the United Kindom
-record: First British and first woman to visit the Mir space station
+nationality: UK
 year: 1991
-time-in-space: 7 days, 21 hours, and 13 minutes
-birth: 30.05.1963
 video: https://www.youtube.com/embed/x0-nMl0jf5E
 ---
 

@@ -1,12 +1,9 @@
 ---
 layout: astronaut
 name: Claudie Haigneré
-image-url:  https://cdn.britannica.com/96/177496-050-481E5616/Valentina-Tereshkova.jpg
-nationality:  France
-record: First French woman in space
+image-url: https://cdn.britannica.com/96/177496-050-481E5616/Valentina-Tereshkova.jpg
+nationality: France
 year: 2001
-time-in-space: 25 days, 14 hours, and 22  minutes
-birth: 13.05.1957
 video: https://www.youtube.com/embed/nEVi5n4tjps
 ---
 
