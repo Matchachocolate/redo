@@ -12,7 +12,7 @@ layout: default
       <br>
       <br>
       <div class="pic-and-name">
-              <img src="{{ page.image-url }}">
+             <a href="{{ page.image-url }}"><img class="as" src="{{ page.image-url }}"></a> 
           <h1>{{ page.name }}</h1>
           <h3>{{ page.record }}</h3>
       </div>
@@ -27,6 +27,16 @@ layout: default
       <br>
       <div class="content">
           {{ content }}
+            <br>
+            <br>
+            <br>
+            <p>-> If you would like to learn more about {{ page.name }}’s story and her passion for space, please click on the video below:</p>
+            <center>
+            <iframe width="420" height="315" src="{{ page.video }}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </center>
       </div>
+      <br>
+      <br>
+
   </body>
 

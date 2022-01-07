@@ -7,6 +7,7 @@ record: Longest total time in space
 year: 2017
 time-in-space: 665 days, 22 hours, and 22 minutes
 birth: 09.02.1960
+video: https://www.youtube.com/embed/jtLX6lcSvuw
 ---
 
 As a 9-year-old, Peggy Whitson watched Neil Armstrong and Buzz Aldrin be the first people to walk on the moon in 1969. When her father got his private pilot’s license the next year, Whitson remembered: 
@@ -32,11 +33,4 @@ Her favorite space food is chicken fajitas.
 <div class="quotes">
 “I never got tired of it in the 665 days I was up there.”
 </div>
-
-<br>
-<br>
-<br>
--> If you would like to learn more about Peggy Whitson’s story and her passion for space, please click on the link below:
-Video: https://www.youtube.com/watch?v=jtLX6lcSvuw
-Copyright: RSA Conference (Youtube Chanel)
 

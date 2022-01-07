@@ -7,6 +7,7 @@ record: First African-American woman in space
 year: 1992
 time-in-space: 7 days, 22 hours, and 30 minutes
 birth: 17.10.1956
+video: https://www.youtube.com/embed/tCMJW-auEhE
 ---
 
 In 1992, US astronaut, doctor and engineer Mae Carol Jemison became the first African-American woman to go to space aboard the Space Shuttle Endeavor on a mission named STS-47. Jemison was born in 1956 as the youngest of three children in Alabama and moved to Chicago at the age of three. As a big Star Trek fan growing up, she aspired to go into space and had no doubt she would achieve that big goal one day. In a 2007 interview, Jemison said:
@@ -24,11 +25,3 @@ Mae Carol Jemison today is a science ambassador and makes an effort to democrati
 <div class="quotes">
 “I think it’s so vitally important that all people in this world are involved in the process of discovery.”
 </div>
-
-<br>
-<br>
-<br>
--> If you would like to learn more about Mae Carol Jemison’s story of growing up in the 1960s and her passion for space, please click on the link below:
-
-Video: https://www.youtube.com/watch?v=tCMJW-auEhE
-Copyright: The Aspen Institute (Youtube Chanel)

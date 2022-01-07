@@ -10,7 +10,7 @@ layout: index_layout
             <h2>{{ astronaut.year }}</h2>
             <h3><a href="{{ astronaut.url }}">{{ astronaut.name }}</a></h3>
             <p>{{ astronaut.record }}</p>
-            <p>{{ astronaut.time-in-space }}</p>
+            <p>{{ astronaut.time-in-space }} in space</p>
         </div>
     </div>
     {% endfor %}

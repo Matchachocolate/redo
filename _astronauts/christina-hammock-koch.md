@@ -5,8 +5,9 @@ image-url: https://images-assets.nasa.gov/image/jsc2018e095073_alt/jsc2018e09507
 nationality: USA
 record: Longest continuous time in space
 year: 2020
-time-in-space: 328 days 13 hours 58 minutes
+time-in-space: 328 days, 13 hours, and 58 minutes
 birth: 29.01.1979
+video: https://www.youtube.com/embed/IdP-RFD9Plc
 ---
 
 Christina Hammock Koch is an adventurer. As she likes rock climbing, backpacking and ice climbing, it is no surprise she is passionate about space travel as well. Koch said:
@@ -29,9 +30,3 @@ Koch is optimistic about the future of space traveling and says that her
 <div class="quotes">
 "biggest hope for [this] record is that it is exceeded as soon as possible again, because that means we are continuing to push those boundaries."
 </div>
-
-
--> If you would like to learn more about Christina Koch’s story and her passion for space, please click on the link below:
-
-Video: Video: https://www.youtube.com/watch?v=IdP-RFD9Plc
-Copyright: NASA (Youtube Chanel)

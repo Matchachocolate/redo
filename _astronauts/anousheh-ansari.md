@@ -7,6 +7,7 @@ record: First female space tourist
 year: 2020
 time-in-space: 10 days 21 hours and 5 minutes
 birth: 12.09.1966
+video: https://www.youtube.com/embed/rSQlIrVzcRE
 ---
 
 Iranian born Anousheh Ansari moved to the United States as a teenager where she earned a bachelor’s degree in electronics and computer engineering and a master’s degree in electrical engineering. She also holds an honorary doctorate from the International Space University. From very early on, Ansari has been very passionate about space traveling and said in a 2021 interview: 
@@ -23,10 +24,3 @@ She became the first female space tourist spending nine days on the Internationa
 
 Today, Ansari is CEO of XPrize which is a California-based nonprofit organization that supports scientific innovation.
 
-<br>
-<br>
-<br>
--> If you would like to learn more about Anousheh Ansari’s story and her passion for space, please click on the link below:
-
-Video: https://www.youtube.com/watch?v=rSQlIrVzcRE
-Copyright: XPRIZE (Youtube Chanel)

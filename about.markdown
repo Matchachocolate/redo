@@ -19,13 +19,23 @@ permalink: /about/
     The near future looks bright for aspiring women space travelers of the world. Anna Kikina from Russia is scheduled to go into orbit in 2022. NASA has said it wants to land the first woman on the surface of the Earth’s Moon in 2024. Last week, the United Arab Emirates announced that Nora Al Matrooshi would become the Arab world’s first woman astronaut.
     <br>
     <br>
-    This site was built using … . The text was collected from various sources such as the NASA website, Britannica or other archives. As the site was created for a module assignment at King’s College London, all the codes used are available on GitHub.
+    The text was collected from various sources such as the NASA website, Britannica or other archives. As the site was created for a module assignment at King’s College London, all the codes used are available on <a href="https://github.com/Matchachocolate/redo">GitHub</a>.
     <br>
     <br>
     <br>
     This work is licensed under a
     <a href="https://creativecommons.org/licenses/by-nd/4.0">Creative Commons Attribution-NoDerivatives 4.0 International License</a>
+    <br>
+    <br>
+    <br>
+    <p>References:</p>
+    <a href="https://www.space.com/16143-women-space-firsts-gallery.html"> https://www.space.com/16143-women-space-firsts-gallery.html</a>
 
+    <a href="https://www.itu.int/hub/2021/04/meet-the-women-who-made-history-in-space/">https://www.itu.int/hub/2021/04/meet-the-women-who-made-history-in-space/</a>
+
+    <a href="https://www.space.com/37110-becoming-a-nasa-astronaut-surprising-facts.html">https://www.space.com/37110-becoming-a-nasa-astronaut-surprising-facts.html</a>
+
+    <a href="https://www.itu.int/hub/2021/04/meet-the-women-who-made-history-in-space/">https://www.itu.int/hub/2021/04/meet-the-women-who-made-history-in-space/</a>
 
 
 </div>
