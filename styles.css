@@ -26,14 +26,17 @@
 }
 
 .topnav a:hover {
-    background-color: #003566;
+    background-color: #f4faff;
     color: #ffc300;
 }
 
 .topnav a:link {
-    color: #003566
+    color: #003566;
 }
 
+.topnav a:visited {
+    color: #003566;
+}
 
 
 @media screen and (max-width: 600px) {
@@ -125,6 +128,10 @@ a:link {
 }
 
 a:visited {
+    color: #f4faff; 
+}
+
+a.tl:visited {
     color: #003566
 }
 

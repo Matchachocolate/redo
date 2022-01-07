@@ -9,7 +9,7 @@ layout: index_layout
     <div class="text-wrapper">
         <div class="ait">
             <h2>{{ astronaut_sorted.year }}</h2>
-            <h3><a href="{{ astronaut.url }}">{{ astronaut.name }}</a></h3>
+            <h3><a class="tl" href="{{ astronaut.url }}">{{ astronaut.name }}</a></h3>
             <p>{{ astronaut_sorted.record }}</p>
             <p>{{ astronaut_sorted.time-in-space }} in space</p>
         </div>
