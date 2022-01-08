@@ -1,7 +1,7 @@
 ---
 layout: astronaut
 name: Yi So-yeon
-image-url:  https://cdn.britannica.com/03/136003-050-71F49CDC/Yi-Soyeon-2008.jpg
+image-url:  https://live.staticflickr.com/7398/9445345208_ff3ca5280b_3k.jpg
 nationality:  South Korea
 year: 2008
 video: https://www.youtube.com/embed/mc5GT9lmbz4

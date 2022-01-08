@@ -1,7 +1,7 @@
 ---
 layout: astronaut
 name: Claudie Haignere
-image-url: https://cdn.britannica.com/96/177496-050-481E5616/Valentina-Tereshkova.jpg
+image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/20140927_Femmes_de_science_-_Claudie_Haigner%C3%A9_02.jpg/606px-20140927_Femmes_de_science_-_Claudie_Haigner%C3%A9_02.jpg
 nationality: France
 year: 2001
 video: https://www.youtube.com/embed/nEVi5n4tjps

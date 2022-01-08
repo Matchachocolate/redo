@@ -19,12 +19,16 @@ permalink: /about/
     The near future looks bright for aspiring women space travelers of the world. Anna Kikina from Russia is scheduled to go into orbit in 2022. NASA has said it wants to land the first woman on the surface of the Earth’s Moon in 2024. Last week, the United Arab Emirates announced that Nora Al Matrooshi would become the Arab world’s first woman astronaut.
     <br>
     <br>
-    The text was collected from various sources such as the NASA website, Britannica or other archives. As the site was created for a module assignment at King’s College London, all the codes used are available on <a href="https://github.com/Matchachocolate/redo">GitHub</a>.
+    The text was collected from various sources such as the NASA website, Britannica or other archives, as indicated in the 'References' section. The images used in this website, unless specified, are all in public domain.
+    <br>
+    <br>
+    The site was created by Julia Magdalena, Meiwen Xiang, Yaqi Zhang, and Yucheng Huang for the module The Cultural Web: Building a Humanities Website at King’s College London. All the codes used are available on <a href="https://github.com/Matchachocolate/redo">GitHub</a>.
+    <br>
     <br>
     <br>
     <br>
     This work is licensed under a
-    <a href="https://creativecommons.org/licenses/by-nd/4.0">Creative Commons Attribution-NoDerivatives 4.0 International License</a>
+    <a href="https://creativecommons.org/licenses/by-nd/4.0">Creative Commons Attribution-NoDerivatives 4.0 International License</a>.
     <br>
     <br>
     <br>

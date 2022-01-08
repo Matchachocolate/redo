@@ -1,7 +1,7 @@
 ---
 layout: astronaut
 name: Helen Sharman
-image-url: https://www.heritagefund.org.uk/sites/default/files/inline-images/Sharman_Helen_1991.jpg
+image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Dr._Helen_Sharman_%28cropped%29.jpg/674px-Dr._Helen_Sharman_%28cropped%29.jpg
 nationality: UK
 year: 1991
 video: https://www.youtube.com/embed/x0-nMl0jf5E

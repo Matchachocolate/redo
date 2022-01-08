@@ -103,6 +103,7 @@
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     color: #001d3d;
     letter-spacing: 1px;
+    text-align: left;
 }
 
 .ait h3{
@@ -213,3 +214,11 @@ img.ht {
     color: #ffc300;
 }
 
+.license {
+    text-align: center;
+    font-size: 14px;
+    font-family: 'Courier New', Courier, monospace;
+    color: #F2E9E4;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,7 +1,7 @@
 ---
 layout: astronaut
 name: Svetlana Savitskaya
-image-url: http://www.spacefacts.de/bios/portraits_hi/cosmonauts/savitskaya_svetlana.jpg
+image-url: https://upload.wikimedia.org/wikipedia/commons/2/2a/Svetlana_Savitskaya%2C_7_December_2018.jpg
 nationality: Soviet
 year: 1982
 video: https://www.youtube.com/embed/EldwN3da1cA

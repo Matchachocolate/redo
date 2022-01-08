@@ -1,7 +1,7 @@
 ---
 layout: astronaut
 name: Samantha Cristoforetti
-image-url: https://api.time.com/wp-content/uploads/2021/08/Samantha-Cristoforetti.jpg?w=1600&quality=70
+image-url: https://live.staticflickr.com/5534/12778323323_dd494b7097_4k.jpg
 nationality: Italy
 year: 2014
 video: https://www.youtube.com/embed/99i3T1Cw8z8
