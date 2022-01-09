@@ -4,14 +4,13 @@ layout: index_layout
 ---
 <center>
     <div class="content">
-<br>
-<br>
+        <br>
+        <br>
         <a href="https://cdn.mos.cms.futurecdn.net/aDaw7ATYubKeBXyWXU4pW4.jpg"><img class="ht" src="https://cdn.mos.cms.futurecdn.net/aDaw7ATYubKeBXyWXU4pW4.jpg"></a>
-<br>
+        <br>
         <h1>How to become a female astronaut at NASA</h1>        
-<br>
+            <br>
             Astronaut requirements have changed with NASA's goals and missions. Today, to be considered for an astronaut position, applicants must meet the following qualifications:
-
             <ol>
                 <li>Be a <strong>U.S. citizen</strong></li>
                 <li>Get the <strong>right degrees</strong>: Possess a master's degree in a STEM field, including engineering, biological science, physical science, computer science or mathematics, from an accredited institution.</li>
@@ -28,7 +27,8 @@ layout: index_layout
                 <li>Be able to <strong>pass the NASA long-duration flight</strong> astronaut physical.</li>
                 <li>There are <strong>many other skills</strong> that can be an asset to selection, such as scuba diving, wilderness experience, leadership experience and facility with other languages (especially Russian, which all astronauts are required to learn today.)</li>
             </ol>
-
+            <br>
+            <br>
         <h2>Surprising facts about becoming an astronaut</h2>
             <ul>    
                 <li>There are <strong>no age requirements</strong> for being an astronaut. The typical age range spans 26 to 46-years-old.</li>
@@ -36,6 +36,12 @@ layout: index_layout
                 <li>There is a myth that a <strong>tattoo</strong> would prevent you from becoming an astronaut. This is not at all true. In fact, some Apollo astronauts were given tattoos– small dots to show where defibrillator pads should be placed in case of a medical emergency. </li>
                 <li>In 2013, 6,000 people applied to become astronauts; NASA selected eight. And when a whopping 18,300 people applied for the class of 2017, only 12 were accepted — that's an <strong>acceptance rate of less than 1%</strong>.</li>
             </ul>
+            <br>
+            <br>
+            <p> -> Click on the video below to know more about the stories in becoming astronauts.</p>
+            <center>
+            <iframe width="420" height="315" src="https://www.youtube.com/embed/q5T9iYjt6Lk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            </center>            
     </div>
 </center>
 <br>

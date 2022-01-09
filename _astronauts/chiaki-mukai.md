@@ -1,7 +1,7 @@
 ---
 layout: astronaut
 name: Chiaki Mukai
-image-url: https://cdn2.picryl.com/photo/1998/10/29/ksc-98pc1435-037c55-1024.jpg
+image-url: https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Chiaki_Mukai.jpg/741px-Chiaki_Mukai.jpg
 nationality: Japan
 year: 1994
 video: https://www.youtube.com/embed/FBdN8MnL0-U

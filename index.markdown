@@ -1,5 +1,5 @@
 ---
-title: Female in Space
+title: Women in Space
 layout: index_layout
 ---
 
