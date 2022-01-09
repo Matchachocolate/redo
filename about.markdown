@@ -25,7 +25,7 @@ permalink: /about/
     The text was collected from various sources such as the NASA website, Britannica or other archives, as indicated in the 'References' section. The images used in this website, unless specified, are all in public domain.
     <br>
     <br>
-    The site was created by Julia Magdalena, Meiwen Xiang, Yaqi Zhang, and Yucheng Huang for the module The Cultural Web: Building a Humanities Website at King’s College London. All the codes used are available on <a href="https://github.com/Matchachocolate/redo">GitHub</a>.
+    The site was created by Julia Magdalena, Meiwen Xiang, Yaqi Zhang, and Yucheng Huang, using Jekyll, for the module 'The Cultural Web: Building a Humanities Website' at King’s College London. All the codes used are available on <a href="https://github.com/Matchachocolate/redo">GitHub</a>.
     <br>
     <br>
     <br>

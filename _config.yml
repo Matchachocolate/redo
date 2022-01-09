@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Female in Space
+title: Women in Space
 email: k21029634@kcl.ac.uk.com
 description: >- # this means to ignore newlines until "baseurl:"
-  A website built for the record of female achievements in space
+  A website built for the stories of female achievements in space
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://female-in-space.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://women-in-space.netlify.app/" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 plugins:
