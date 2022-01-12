@@ -6,7 +6,6 @@ layout: index_layout
     <div class="content">
         <br>
         <br>
-        <a href="https://cdn.mos.cms.futurecdn.net/aDaw7ATYubKeBXyWXU4pW4.jpg"><img class="ht" src="https://cdn.mos.cms.futurecdn.net/aDaw7ATYubKeBXyWXU4pW4.jpg"></a>
         <br>
         <h1>How to become a female astronaut at NASA</h1>        
             <br>
